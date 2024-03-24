@@ -1,0 +1,13 @@
+.form{
+    border: 1px solid black;
+    padding: 10px 170px;
+    border-radius: 20px;
+    background-color:#d4a6ffb1;
+}
+
+input,textarea{
+    border: 1px solid black;
+    padding: 3px;
+    border-radius: 4px;
+    margin-left: 5px;
+}
