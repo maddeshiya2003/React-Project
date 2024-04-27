@@ -1,0 +1,58 @@
+/* jokes.css */
+
+/* Styles for the container div */
+div {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Styles for the punchline */
+  .punchline {
+    font-size: 2rem;
+    color: #2e2d2d;
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for the setup */
+  .setup {
+    font-size: 1.5rem;
+    color: #555;
+    margin-bottom: 30px;
+  }
+  
+  /* Styles for the button */
+  .btn {
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 4px 6px rgba(217, 10, 10, 0.1);
+  }
+  
+  .btn:hover {
+    background-color: #388e3c;
+  }
+  
+  /* Additional styles for more visual appeal */
+  div {
+    background-color: #d6e6f5;
+    padding: 2px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgb(0, 0, 0);
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
