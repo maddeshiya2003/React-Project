@@ -1,0 +1,14 @@
+.ticket{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgba(111, 238, 226, 0.566);
+}
+
+.btn{
+    margin-bottom: 40px;
+}
+
+.lottery{
+    border: 1px solid black;
+    border-radius: 10px ;
+}

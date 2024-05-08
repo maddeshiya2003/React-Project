@@ -1,0 +1,6 @@
+.Ticket{
+    width :450px;
+    background-color: rgba(136, 249, 249, 0.785);
+    border: 0.1px solid black;
+    border-radius:0px 0px 10px 10px ;
+}
